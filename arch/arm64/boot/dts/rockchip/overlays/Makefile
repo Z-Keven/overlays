@@ -407,6 +407,7 @@ dtb-$(CONFIG_CPU_RK3588) += \
 	rock-5b-okdo-5mp-camera.dtbo \
 	rock-5b-radxa-camera-4k.dtbo \
 	rock-5b-radxa-display-10fhd.dtbo \
+	armsom-sige7-display-10hd.dtbo \
 	rock-5b-raspi-7inch-touchscreen.dtbo \
 	rock-5b-rpi-camera-v1_3.dtbo \
 	rock-5b-hdmi1-8k.dtbo \
